@@ -4,8 +4,8 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/AdanQuijadaC/interactive-card-details-form-main_byaqc
+- Live Site URL: https://famous-begonia-042d1f.netlify.app/
 
 ### Built with
 
@@ -17,6 +17,5 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/AdanQuijadaC)
+- Twitter - (https://www.twitter.com/Adan_Quijada_C)
